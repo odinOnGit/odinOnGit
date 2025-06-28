@@ -5,9 +5,7 @@
 
 > I’m currently part of **ITC, Web Team**
 
-> I’m currently learning **Django REST Framework**
-
-> Would love to talk about **webdev, weight training, or, any of your interest...**
+> Would love to talk about **webdev, or, any of your interest...**
 
 > To reach me **tezaschhetri@gmail.com**
 
